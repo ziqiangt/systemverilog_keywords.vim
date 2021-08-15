@@ -1,6 +1,6 @@
 # systemverilog_keywords.vim
 
-Omni completion source for [asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim)
+Systemverilog keywords completion source for [asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim)
 
 ## Install
 
